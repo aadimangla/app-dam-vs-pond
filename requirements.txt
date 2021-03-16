@@ -1,3 +1,4 @@
-streamlit==__version__
-numpy==__version__
-pillow==__version__
+streamlit
+numpy
+pillow
+tensorflow
