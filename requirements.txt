@@ -1,0 +1,4 @@
+tensorflow==2.3.0
+streamlit==__version__
+numpy==__version__
+pillow==__version__
